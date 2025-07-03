@@ -60,10 +60,7 @@ To reproduce the analysis:
 
 ## Interactive dashboard
 View the Tableau dashboard here:
-Link to Dashboard:
-[
-](https://public.tableau.com/app/profile/celine.sitinna/viz/aircraftanalysis/aircraftdashboard?publish=yes)
-
+Link to Dashboard:https://public.tableau.com/app/profile/celine.sitinna/viz/aircraftanalysis/aircraftdashboard?publish=yes
 
 ### author:
 Celine Sitina.
